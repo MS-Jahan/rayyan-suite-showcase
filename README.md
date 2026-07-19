@@ -4,6 +4,10 @@
 
 Four Django web applications and a brand portal for **B2B operations**: farm management, retail Feed Store POS with **FIFO inventory**, FMCG distribution with **multi-company data isolation**, and cashbox / profit reporting dashboards.
 
+## Overview
+
+Four Django B2B apps + brand portal: farm management, Feed Store POS with FIFO inventory, FMCG distribution with multi-company isolation, cashbox/profit dashboards.
+
 ## Links
 
 - **Live:** https://rayanagro.group
@@ -13,13 +17,13 @@ Four Django web applications and a brand portal for **B2B operations**: farm man
 
 **Sole developer** — four repos, final technical decisions, deploy/ops on Docker + Coolify.
 
-## What it does
+## Key Features
 
-- Farm management workflows for B2B operations
+- Farm management workflows
 - Retail Feed Store POS with FIFO inventory
 - FMCG distribution with multi-company data isolation
 - Cashbox and profit reporting dashboards
-- Brand portal for the Rayyan Group properties
+- Brand portal for Rayyan Group properties
 
 ## Tech stack
 
@@ -28,6 +32,14 @@ Four Django web applications and a brand portal for **B2B operations**: farm man
 | Apps | Python 3.12, Django 4.2 |
 | Data | MySQL |
 | Infra | Docker, Coolify, Cloudflare R2 |
+
+## Dependencies
+
+No installable source in this showcase. Product stack: Python 3.12, Django 4.2, MySQL, Docker, Coolify, Cloudflare R2.
+
+## How to run locally
+
+Source is private (owned elsewhere). Use https://rayanagro.group — there is nothing to run from this repo.
 
 ## Architecture (high level)
 
